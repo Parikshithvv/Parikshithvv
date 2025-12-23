@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/parikshith v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parikshith v" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/parikshithv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parikshithv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parikshith v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parikshith v" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/E4N38fSk1u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parikshith v" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/parikshmb74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parikshmb74" height="30" width="40" /></a>
 </p>
 
