@@ -42,16 +42,16 @@
 ---
 
 ### ⚡ currently grinding
-01  Kotlin + Compose   — state hoisting, side-effects, clean arch
-02  DSA                — trees, graphs, DP · CodeChef rating 1151+
-03  GenAI + APIs       — exploring LLM integration in mobile apps
+ Kotlin + Compose   — state hoisting, side-effects, clean arch/
+ DSA                — Striver sheet/
+ GenAI + APIs       — exploring LLM integration in mobile apps
 
 ---
 ### 💬 ask me about
-→  Native Android dev with Kotlin & Jetpack Compose
-→  MVVM · Clean Architecture · Hilt DI
-→  Firebase · Room DB · REST API integration
-→  Building location-aware & real-time apps
+ Native Android dev with Kotlin & Jetpack Compose,
+ MVVM · Clean Architecture · Hilt DI,
+ Firebase · Room DB · REST API integration,
+ Building location-aware & real-time apps
 
 ---
 
